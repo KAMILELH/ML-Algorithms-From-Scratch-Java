@@ -1,4 +1,4 @@
-# Machine Learning from Scratch (Java) 🧠☕
+# Machine Learning from Scratch (Java)
 
 A custom implementation of core Machine Learning algorithms built entirely in **Java** without external ML libraries.
 
