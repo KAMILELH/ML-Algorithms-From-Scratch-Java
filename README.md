@@ -7,14 +7,13 @@ To deconstruct the "black box" of libraries like Scikit-learn and understand the
 
 ### ⚡ Algorithms Implemented
 * **Linear Regression:** Using Gradient Descent optimization.
-* **K-Nearest Neighbors (KNN):** Custom distance metric calculations.
-* **Logistic Regression:** Sigmoid activation and cost function minimization.
-* *(Add whatever else we worked on: Decision Trees, K-Means, etc.)*
+* **K-Nearest Neighbors (Classification & Regression):** Custom distance metric calculations.
+
+
 
 ### 🛠️ Tech Stack
 * **Language:** Java (OOP principles)
 * **Math:** Linear Algebra & Calculus logic implemented raw.
-* **Tools:** Maven/Gradle (if you used them), JUnit for testing.
 ---
 
 ### 🧠 What I Learned
