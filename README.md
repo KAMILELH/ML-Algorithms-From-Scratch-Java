@@ -1,4 +1,8 @@
 # Machine Learning from Scratch (Java)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-From%20Scratch-blue?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-KNN%20%7C%20K--Means%20%7C%20Regression-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 A custom implementation of core Machine Learning algorithms built entirely in **Java** without external ML libraries.
 
